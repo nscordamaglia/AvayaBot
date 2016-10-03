@@ -1,0 +1,610 @@
+Trab: V_ARNET_BLE	TRY & BUY	Total regs seleccionados	3434		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Total llams sltes establecidas	2904		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Regs restantes	1587		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Llams sltes actualmente en la cola de espera	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes en línea	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes activos	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agente en llamada	1		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes actualizando	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes inactivos	1		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Línea libre después de marcar	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Señal de ocupado	3		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	FAX o MODEM	6		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contestadora automática	971		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Persona en la línea	40		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Sin respuesta	830		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Reintento liberado	315		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contacto Positivo - C+	9		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contacto Negativo - C-	88		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Envio a CMS - EH	1		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Dejar de Llamar - DL	351		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No quiere atender - NQ	50		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No Recibe llamados - NF	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Señal de ocupado inmediata	149		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No hay agente para la llamada de salida	55		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Llamada terminada por el agente en forma anormal	15		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Repetición de llamadas propio del agente	17		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Total regs seleccionados	3434		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Total llams sltes establecidas	2939		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Regs restantes	1574		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Llams sltes actualmente en la cola de espera	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes en línea	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes activos	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agente en llamada	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes actualizando	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes inactivos	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Línea libre después de marcar	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Señal de ocupado	3		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	FAX o MODEM	6		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contestadora automática	983		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Persona en la línea	44		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Sin respuesta	839		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Reintento liberado	315		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contacto Positivo - C+	9		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contacto Negativo - C-	95		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Envio a CMS - EH	1		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Dejar de Llamar - DL	351		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No quiere atender - NQ	50		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No Recibe llamados - NF	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Señal de ocupado inmediata	149		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No hay agente para la llamada de salida	58		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Llamada terminada por el agente en forma anormal	15		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Repetición de llamadas propio del agente	17		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Total regs seleccionados	3434		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Total llams sltes establecidas	2980		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Regs restantes	1556		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Llams sltes actualmente en la cola de espera	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes en línea	3		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes activos	3		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agente en llamada	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes actualizando	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes inactivos	1		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Línea libre después de marcar	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Señal de ocupado	3		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	FAX o MODEM	7		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contestadora automática	995		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Persona en la línea	45		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Sin respuesta	852		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Reintento liberado	315		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contacto Positivo - C+	9		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contacto Negativo - C-	102		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Envio a CMS - EH	1		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Dejar de Llamar - DL	356		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No quiere atender - NQ	50		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No Recibe llamados - NF	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Señal de ocupado inmediata	150		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No hay agente para la llamada de salida	59		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Llamada terminada por el agente en forma anormal	15		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Repetición de llamadas propio del agente	17		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Total regs seleccionados	3434		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Total llams sltes establecidas	2986		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Regs restantes	1554		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Llams sltes actualmente en la cola de espera	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes en línea	3		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes activos	3		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agente en llamada	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes actualizando	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes inactivos	1		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Línea libre después de marcar	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Señal de ocupado	3		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	FAX o MODEM	7		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contestadora automática	996		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Persona en la línea	45		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Sin respuesta	853		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Reintento liberado	315		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contacto Positivo - C+	9		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contacto Negativo - C-	105		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Envio a CMS - EH	1		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Dejar de Llamar - DL	356		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No quiere atender - NQ	50		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No Recibe llamados - NF	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Señal de ocupado inmediata	150		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No hay agente para la llamada de salida	60		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Llamada terminada por el agente en forma anormal	15		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Repetición de llamadas propio del agente	17		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Total regs seleccionados	3434		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Total llams sltes establecidas	3000		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Regs restantes	1549		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Llams sltes actualmente en la cola de espera	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes en línea	3		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes activos	3		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agente en llamada	3		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes actualizando	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes inactivos	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Línea libre después de marcar	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Señal de ocupado	3		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	FAX o MODEM	7		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contestadora automática	1001		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Persona en la línea	48		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Sin respuesta	857		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Reintento liberado	315		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contacto Positivo - C+	9		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contacto Negativo - C-	106		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Envio a CMS - EH	1		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Dejar de Llamar - DL	356		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No quiere atender - NQ	50		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No Recibe llamados - NF	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Señal de ocupado inmediata	151		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No hay agente para la llamada de salida	60		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Llamada terminada por el agente en forma anormal	15		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Repetición de llamadas propio del agente	17		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Total regs seleccionados	3434		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Total llams sltes establecidas	3003		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Regs restantes	1548		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Llams sltes actualmente en la cola de espera	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes en línea	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes activos	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agente en llamada	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes actualizando	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes inactivos	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Línea libre después de marcar	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Señal de ocupado	3		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	FAX o MODEM	7		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contestadora automática	1002		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Persona en la línea	48		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Sin respuesta	857		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Reintento liberado	315		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contacto Positivo - C+	9		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contacto Negativo - C-	108		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Envio a CMS - EH	1		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Dejar de Llamar - DL	356		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No quiere atender - NQ	50		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No Recibe llamados - NF	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Señal de ocupado inmediata	151		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No hay agente para la llamada de salida	60		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Llamada terminada por el agente en forma anormal	15		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Repetición de llamadas propio del agente	17		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Total regs seleccionados	3434		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Total llams sltes establecidas	3003		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Regs restantes	1548		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Llams sltes actualmente en la cola de espera	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes en línea	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes activos	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agente en llamada	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes actualizando	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes inactivos	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Línea libre después de marcar	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Señal de ocupado	3		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	FAX o MODEM	7		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contestadora automática	1002		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Persona en la línea	48		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Sin respuesta	857		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Reintento liberado	315		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contacto Positivo - C+	9		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contacto Negativo - C-	108		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Envio a CMS - EH	1		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Dejar de Llamar - DL	356		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No quiere atender - NQ	50		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No Recibe llamados - NF	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Señal de ocupado inmediata	151		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No hay agente para la llamada de salida	60		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Llamada terminada por el agente en forma anormal	15		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Repetición de llamadas propio del agente	17		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Total regs seleccionados	3434		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Total llams sltes establecidas	3012		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Regs restantes	1547		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Llams sltes actualmente en la cola de espera	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes en línea	3		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes activos	3		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agente en llamada	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes actualizando	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes inactivos	1		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Línea libre después de marcar	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Señal de ocupado	3		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	FAX o MODEM	7		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contestadora automática	1004		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Persona en la línea	51		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Sin respuesta	857		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Reintento liberado	315		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contacto Positivo - C+	9		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contacto Negativo - C-	109		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Envio a CMS - EH	1		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Dejar de Llamar - DL	358		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No quiere atender - NQ	50		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No Recibe llamados - NF	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Señal de ocupado inmediata	152		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No hay agente para la llamada de salida	60		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Llamada terminada por el agente en forma anormal	15		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Repetición de llamadas propio del agente	17		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Total regs seleccionados	3434		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Total llams sltes establecidas	3026		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Regs restantes	1542		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Llams sltes actualmente en la cola de espera	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes en línea	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes activos	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agente en llamada	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes actualizando	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes inactivos	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Línea libre después de marcar	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Señal de ocupado	3		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	FAX o MODEM	7		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contestadora automática	1010		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Persona en la línea	53		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Sin respuesta	860		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Reintento liberado	315		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contacto Positivo - C+	9		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contacto Negativo - C-	111		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Envio a CMS - EH	1		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Dejar de Llamar - DL	358		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No quiere atender - NQ	50		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No Recibe llamados - NF	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Señal de ocupado inmediata	152		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No hay agente para la llamada de salida	61		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Llamada terminada por el agente en forma anormal	15		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Repetición de llamadas propio del agente	17		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Total regs seleccionados	6929		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Total llams sltes establecidas	2881		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Regs restantes	5205		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Llams sltes actualmente en la cola de espera	0		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Agtes en línea	2		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Agtes activos	2		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Agente en llamada	2		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Agtes actualizando	0		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Agtes inactivos	0		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Línea libre después de marcar	14		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Señal de ocupado	1		15-feb
+Trab: V_ARNET_B_ROS	VDSL	FAX o MODEM	5		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Contestadora automática	829		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Sin respuesta	807		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Teléfono timbrando	1		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Reintento liberado	203		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Contacto Positivo - C+	16		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Contacto Negativo - C-	41		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Dejar de Llamar - DL	149		15-feb
+Trab: V_ARNET_B_ROS	VDSL	No quiere atender - NQ	25		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Llamada administrada cancelada	5		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Señal de ocupado inmediata	219		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Cliente colgó en queue de salida	1		15-feb
+Trab: V_ARNET_B_ROS	VDSL	No hay agente para la llamada de salida	556		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Llamada terminada por el agente en forma anormal	3		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Repetición de llamadas propio del agente	6		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Total regs seleccionados	3434		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Total llams sltes establecidas	3030		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Regs restantes	1541		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Llams sltes actualmente en la cola de espera	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes en línea	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes activos	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agente en llamada	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes actualizando	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes inactivos	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Línea libre después de marcar	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Señal de ocupado	3		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	FAX o MODEM	7		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contestadora automática	1012		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Persona en la línea	53		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Sin respuesta	861		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Reintento liberado	315		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contacto Positivo - C+	9		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contacto Negativo - C-	112		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Envio a CMS - EH	1		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Dejar de Llamar - DL	358		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No quiere atender - NQ	50		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No Recibe llamados - NF	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Señal de ocupado inmediata	152		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No hay agente para la llamada de salida	61		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Llamada terminada por el agente en forma anormal	15		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Repetición de llamadas propio del agente	17		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Total regs seleccionados	20579		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Total llams sltes establecidas	404		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Regs restantes	20224		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Llams sltes actualmente en la cola de espera	0		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Agtes en línea	10		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Agtes activos	10		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Agente en llamada	7		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Agtes actualizando	0		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Agtes inactivos	3		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Línea libre después de marcar	1		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Contestadora automática	98		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Sin respuesta	106		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Reintento liberado	43		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Contacto Positivo - C+	2		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Contacto Negativo - C-	45		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Dejar de Llamar - DL	35		15-feb
+Trab: V_ARNET_B_ROS	VDSL	No quiere atender - NQ	17		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Señal de ocupado inmediata	25		15-feb
+Trab: V_ARNET_B_ROS	VDSL	No hay agente para la llamada de salida	32		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Total regs seleccionados	6929		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Total llams sltes establecidas	2883		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Regs restantes	5205		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Llams sltes actualmente en la cola de espera	0		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Agtes en línea	2		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Agtes activos	2		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Agente en llamada	1		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Agtes actualizando	0		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Agtes inactivos	1		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Línea libre después de marcar	14		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Señal de ocupado	1		15-feb
+Trab: V_ARNET_WBK3	WINBACK	FAX o MODEM	5		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Contestadora automática	829		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Sin respuesta	807		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Teléfono timbrando	1		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Reintento liberado	205		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Contacto Positivo - C+	16		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Contacto Negativo - C-	41		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Dejar de Llamar - DL	149		15-feb
+Trab: V_ARNET_WBK3	WINBACK	No quiere atender - NQ	25		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Llamada administrada cancelada	5		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Señal de ocupado inmediata	219		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Cliente colgó en queue de salida	1		15-feb
+Trab: V_ARNET_WBK3	WINBACK	No hay agente para la llamada de salida	556		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Llamada terminada por el agente en forma anormal	3		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Repetición de llamadas propio del agente	6		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Total regs seleccionados	25754		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Total llams sltes establecidas	57		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Regs restantes	25698		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Llams sltes actualmente en la cola de espera	0		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Agtes en línea	2		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Agtes activos	2		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Agente en llamada	1		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Agtes actualizando	0		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Agtes inactivos	1		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Contestadora automática	18		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Sin respuesta	25		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Reintento liberado	2		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Dejar de Llamar - DL	4		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Señal de ocupado inmediata	2		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	No hay agente para la llamada de salida	6		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Total regs seleccionados	3434		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Total llams sltes establecidas	3037		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Regs restantes	1539		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Llams sltes actualmente en la cola de espera	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes en línea	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes activos	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agente en llamada	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes actualizando	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes inactivos	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Línea libre después de marcar	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Señal de ocupado	3		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	FAX o MODEM	8		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contestadora automática	1014		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Persona en la línea	53		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Sin respuesta	861		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Reintento liberado	315		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contacto Positivo - C+	9		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contacto Negativo - C-	115		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Envio a CMS - EH	1		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Dejar de Llamar - DL	358		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No quiere atender - NQ	50		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No Recibe llamados - NF	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Señal de ocupado inmediata	152		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No hay agente para la llamada de salida	62		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Llamada terminada por el agente en forma anormal	15		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Repetición de llamadas propio del agente	17		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Total regs seleccionados	20579		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Total llams sltes establecidas	483		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Regs restantes	20153		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Llams sltes actualmente en la cola de espera	1		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Agtes en línea	7		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Agtes activos	7		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Agente en llamada	7		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Agtes actualizando	0		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Agtes inactivos	0		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Línea libre después de marcar	1		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Contestadora automática	111		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Sin respuesta	134		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Reintento liberado	46		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Contacto Positivo - C+	2		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Contacto Negativo - C-	47		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Dejar de Llamar - DL	38		15-feb
+Trab: V_ARNET_B_ROS	VDSL	No quiere atender - NQ	20		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Señal de ocupado inmediata	28		15-feb
+Trab: V_ARNET_B_ROS	VDSL	No hay agente para la llamada de salida	55		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Repetición de llamadas propio del agente	1		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Total regs seleccionados	6929		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Total llams sltes establecidas	2890		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Regs restantes	5205		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Llams sltes actualmente en la cola de espera	0		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Agtes en línea	1		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Agtes activos	1		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Agente en llamada	1		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Agtes actualizando	0		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Agtes inactivos	0		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Línea libre después de marcar	14		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Señal de ocupado	1		15-feb
+Trab: V_ARNET_WBK3	WINBACK	FAX o MODEM	5		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Contestadora automática	830		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Sin respuesta	807		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Teléfono timbrando	1		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Reintento liberado	205		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Contacto Positivo - C+	16		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Contacto Negativo - C-	41		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Dejar de Llamar - DL	152		15-feb
+Trab: V_ARNET_WBK3	WINBACK	No quiere atender - NQ	25		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Llamada administrada cancelada	6		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Señal de ocupado inmediata	219		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Cliente colgó en queue de salida	1		15-feb
+Trab: V_ARNET_WBK3	WINBACK	No hay agente para la llamada de salida	558		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Llamada terminada por el agente en forma anormal	3		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Repetición de llamadas propio del agente	6		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Total regs seleccionados	25754		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Total llams sltes establecidas	68		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Regs restantes	25691		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Llams sltes actualmente en la cola de espera	0		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Agtes en línea	2		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Agtes activos	2		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Agente en llamada	2		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Agtes actualizando	0		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Agtes inactivos	0		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Contestadora automática	21		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Sin respuesta	26		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Reintento liberado	4		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Dejar de Llamar - DL	7		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Señal de ocupado inmediata	3		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	No hay agente para la llamada de salida	7		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Total regs seleccionados	3434		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Total llams sltes establecidas	3038		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Regs restantes	1539		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Llams sltes actualmente en la cola de espera	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes en línea	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes activos	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agente en llamada	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes actualizando	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes inactivos	0		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Línea libre después de marcar	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Señal de ocupado	3		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	FAX o MODEM	8		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contestadora automática	1014		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Persona en la línea	53		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Sin respuesta	861		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Reintento liberado	315		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contacto Positivo - C+	9		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contacto Negativo - C-	116		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Envio a CMS - EH	1		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Dejar de Llamar - DL	358		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No quiere atender - NQ	50		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No Recibe llamados - NF	2		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Señal de ocupado inmediata	152		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	No hay agente para la llamada de salida	62		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Llamada terminada por el agente en forma anormal	15		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Repetición de llamadas propio del agente	17		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Total regs seleccionados	20579		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Total llams sltes establecidas	502		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Regs restantes	20134		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Llams sltes actualmente en la cola de espera	0		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Agtes en línea	7		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Agtes activos	7		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Agente en llamada	6		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Agtes actualizando	0		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Agtes inactivos	1		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Línea libre después de marcar	1		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Contestadora automática	117		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Sin respuesta	135		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Reintento liberado	46		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Contacto Positivo - C+	2		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Contacto Negativo - C-	47		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Dejar de Llamar - DL	38		15-feb
+Trab: V_ARNET_B_ROS	VDSL	No quiere atender - NQ	20		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Señal de ocupado inmediata	30		15-feb
+Trab: V_ARNET_B_ROS	VDSL	No hay agente para la llamada de salida	65		15-feb
+Trab: V_ARNET_B_ROS	VDSL	Repetición de llamadas propio del agente	1		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Total regs seleccionados	6929		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Total llams sltes establecidas	2890		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Regs restantes	5205		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Llams sltes actualmente en la cola de espera	0		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Agtes en línea	1		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Agtes activos	1		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Agente en llamada	1		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Agtes actualizando	0		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Agtes inactivos	0		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Línea libre después de marcar	14		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Señal de ocupado	1		15-feb
+Trab: V_ARNET_WBK3	WINBACK	FAX o MODEM	5		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Contestadora automática	830		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Sin respuesta	807		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Teléfono timbrando	1		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Reintento liberado	205		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Contacto Positivo - C+	16		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Contacto Negativo - C-	41		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Dejar de Llamar - DL	152		15-feb
+Trab: V_ARNET_WBK3	WINBACK	No quiere atender - NQ	25		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Llamada administrada cancelada	6		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Señal de ocupado inmediata	219		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Cliente colgó en queue de salida	1		15-feb
+Trab: V_ARNET_WBK3	WINBACK	No hay agente para la llamada de salida	558		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Llamada terminada por el agente en forma anormal	3		15-feb
+Trab: V_ARNET_WBK3	WINBACK	Repetición de llamadas propio del agente	6		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Total regs seleccionados	25754		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Total llams sltes establecidas	69		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Regs restantes	25690		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Llams sltes actualmente en la cola de espera	0		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Agtes en línea	2		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Agtes activos	2		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Agente en llamada	1		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Agtes actualizando	0		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Agtes inactivos	1		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Contestadora automática	21		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Sin respuesta	26		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Reintento liberado	4		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Dejar de Llamar - DL	8		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Señal de ocupado inmediata	3		15-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	No hay agente para la llamada de salida	7		15-feb
+Trab: V_ARNET_BLE	TRY & BUY	Total regs seleccionados	7320		16-feb
+Trab: V_ARNET_BLE	TRY & BUY	Total llams sltes establecidas	22		16-feb
+Trab: V_ARNET_BLE	TRY & BUY	Regs restantes	7304		16-feb
+Trab: V_ARNET_BLE	TRY & BUY	Llams sltes actualmente en la cola de espera	0		16-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes en línea	0		16-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes activos	0		16-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agente en llamada	0		16-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes actualizando	0		16-feb
+Trab: V_ARNET_BLE	TRY & BUY	Agtes inactivos	0		16-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contestadora automática	7		16-feb
+Trab: V_ARNET_BLE	TRY & BUY	Sin respuesta	8		16-feb
+Trab: V_ARNET_BLE	TRY & BUY	Contacto Negativo - C-	2		16-feb
+Trab: V_ARNET_BLE	TRY & BUY	Dejar de Llamar - DL	2		16-feb
+Trab: V_ARNET_BLE	TRY & BUY	Señal de ocupado inmediata	3		16-feb
+Trab: V_ARNET_B_ROS	VDSL	Total regs seleccionados	19923		16-feb
+Trab: V_ARNET_B_ROS	VDSL	Total llams sltes establecidas	2603		16-feb
+Trab: V_ARNET_B_ROS	VDSL	Regs restantes	18053		16-feb
+Trab: V_ARNET_B_ROS	VDSL	Llams sltes actualmente en la cola de espera	0		16-feb
+Trab: V_ARNET_B_ROS	VDSL	Agtes en línea	18		16-feb
+Trab: V_ARNET_B_ROS	VDSL	Agtes activos	18		16-feb
+Trab: V_ARNET_B_ROS	VDSL	Agente en llamada	15		16-feb
+Trab: V_ARNET_B_ROS	VDSL	Agtes actualizando	0		16-feb
+Trab: V_ARNET_B_ROS	VDSL	Agtes inactivos	3		16-feb
+Trab: V_ARNET_B_ROS	VDSL	Línea libre después de marcar	17		16-feb
+Trab: V_ARNET_B_ROS	VDSL	Señal de ocupado	1		16-feb
+Trab: V_ARNET_B_ROS	VDSL	FAX o MODEM	11		16-feb
+Trab: V_ARNET_B_ROS	VDSL	Contestadora automática	721		16-feb
+Trab: V_ARNET_B_ROS	VDSL	Sin respuesta	894		16-feb
+Trab: V_ARNET_B_ROS	VDSL	Reintento liberado	168		16-feb
+Trab: V_ARNET_B_ROS	VDSL	Contacto Positivo - C+	11		16-feb
+Trab: V_ARNET_B_ROS	VDSL	Contacto Negativo - C-	86		16-feb
+Trab: V_ARNET_B_ROS	VDSL	Envio a CMS - EH	3		16-feb
+Trab: V_ARNET_B_ROS	VDSL	Dejar de Llamar - DL	125		16-feb
+Trab: V_ARNET_B_ROS	VDSL	No quiere atender - NQ	87		16-feb
+Trab: V_ARNET_B_ROS	VDSL	No Recibe llamados - NF	1		16-feb
+Trab: V_ARNET_B_ROS	VDSL	Señal de ocupado inmediata	315		16-feb
+Trab: V_ARNET_B_ROS	VDSL	No hay agente para la llamada de salida	162		16-feb
+Trab: V_ARNET_B_ROS	VDSL	Repetición de llamadas propio del agente	1		16-feb
+Trab: V_ARNET_WBK3	WINBACK	Total regs seleccionados	6554		16-feb
+Trab: V_ARNET_WBK3	WINBACK	Total llams sltes establecidas	1650		16-feb
+Trab: V_ARNET_WBK3	WINBACK	Regs restantes	5390		16-feb
+Trab: V_ARNET_WBK3	WINBACK	Llams sltes actualmente en la cola de espera	0		16-feb
+Trab: V_ARNET_WBK3	WINBACK	Agtes en línea	7		16-feb
+Trab: V_ARNET_WBK3	WINBACK	Agtes activos	7		16-feb
+Trab: V_ARNET_WBK3	WINBACK	Agente en llamada	5		16-feb
+Trab: V_ARNET_WBK3	WINBACK	Agtes actualizando	0		16-feb
+Trab: V_ARNET_WBK3	WINBACK	Agtes inactivos	2		16-feb
+Trab: V_ARNET_WBK3	WINBACK	Línea libre después de marcar	7		16-feb
+Trab: V_ARNET_WBK3	WINBACK	Señal de ocupado	1		16-feb
+Trab: V_ARNET_WBK3	WINBACK	FAX o MODEM	4		16-feb
+Trab: V_ARNET_WBK3	WINBACK	Contestadora automática	497		16-feb
+Trab: V_ARNET_WBK3	WINBACK	Sin respuesta	558		16-feb
+Trab: V_ARNET_WBK3	WINBACK	Reintento liberado	50		16-feb
+Trab: V_ARNET_WBK3	WINBACK	Contacto Positivo - C+	7		16-feb
+Trab: V_ARNET_WBK3	WINBACK	Contacto Negativo - C-	5		16-feb
+Trab: V_ARNET_WBK3	WINBACK	Dejar de Llamar - DL	43		16-feb
+Trab: V_ARNET_WBK3	WINBACK	No quiere atender - NQ	9		16-feb
+Trab: V_ARNET_WBK3	WINBACK	Señal de ocupado inmediata	215		16-feb
+Trab: V_ARNET_WBK3	WINBACK	Cliente colgó en queue de salida	1		16-feb
+Trab: V_ARNET_WBK3	WINBACK	No hay agente para la llamada de salida	249		16-feb
+Trab: V_ARNET_WBK3	WINBACK	Llamada terminada por el agente en forma anormal	1		16-feb
+Trab: V_ARNET_WBK3	WINBACK	Llamada administrada no conectada debido a cód A	1		16-feb
+Trab: V_ARNET_WBK3	WINBACK	Repetición de llamadas propio del agente	2		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Total regs seleccionados	25732		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Total llams sltes establecidas	2159		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Regs restantes	24212		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Llams sltes actualmente en la cola de espera	0		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Agtes en línea	14		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Agtes activos	14		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Agente en llamada	14		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Agtes actualizando	0		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Agtes inactivos	0		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Línea libre después de marcar	7		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Señal de ocupado	5		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	FAX o MODEM	3		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Contestadora automática	557		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Persona en la línea	10		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Sin respuesta	732		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Reintento liberado	214		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Contacto Positivo - C+	7		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Contacto Negativo - C-	8		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Dejar de Llamar - DL	261		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	No quiere atender - NQ	26		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	No Recibe llamados - NF	2		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Llamada administrada cancelada	5		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Señal de ocupado inmediata	187		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	No hay agente para la llamada de salida	117		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Llamada terminada por el agente en forma anormal	1		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Llamada administrada no conectada debido a cód A	5		16-feb
+Trab: V_ARNET_ESP_RO	SUPERFOCA	Repetición de llamadas propio del agente	12		16-feb
