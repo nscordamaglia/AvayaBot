@@ -1,7 +1,4 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package avayabot;
 
 import java.awt.Color;
@@ -17,10 +14,10 @@ import javax.swing.JLabel;
 
 /**
  *
- * @author u189299
+ * @author copy from web
  */
 public class ToHTML {
-    
+
     public void Start(){
         try {
             String html = "<html>" +
@@ -33,7 +30,7 @@ public class ToHTML {
             label.setSize(200, 120);
 
             BufferedImage image = new BufferedImage(
-                    label.getWidth(), label.getHeight(), 
+                    label.getWidth(), label.getHeight(),
                     BufferedImage.TYPE_INT_ARGB);
 
             {
@@ -49,10 +46,10 @@ public class ToHTML {
             ImageIO.write(image, "jpg", baos);
             byte[] bytes = baos.toByteArray();
 
-    
+
 
             ImageIO.write(image, "png", new File("test.png"));
-            
+
         } catch (IOException ex) {
             Logger.getLogger(ToHTML.class.getName()).log(Level.SEVERE, null, ex);
         }

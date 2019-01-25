@@ -1,7 +1,4 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package avayabot;
 
 
@@ -20,10 +17,10 @@ import org.xml.sax.InputSource;
 
 /**
  *
- * @author u189299
+ * @author Nicolas Scordamaglia
  */
 public class HTMLparser {
-    
+
     String html;
     String jobs;
     String activity;
@@ -63,35 +60,35 @@ public class HTMLparser {
         this.activity = activity;
     }
 
-    
-   
-    
+
+
+
 
     public HTMLparser() {
-        
+
             this.url = IsRady(ConfigManager.getAppSetting("url"));
             this.jobs = ConfigManager.getAppSetting("job");
             this.activity = ConfigManager.getAppSetting("activity");
             this.nodearray = new ArrayList<>();
-           
+
     }
-    
-   
-    
+
+
+
     public void HTMLextract(int index){
-    
-            DOMParser parser = new DOMParser();           
+
+            DOMParser parser = new DOMParser();
             InputSource url = new InputSource(getUrl().get(index));
             try{
                 parser.parse(url);
-                Document document = parser.getDocument();  
-                
+                Document document = parser.getDocument();
+
                 NodeList list = document.getElementsByTagName("TD");
                 System.out.println("existen " + list.getLength() + " TD");
                 nodearray.add(list);
-                
-                
-              
+
+
+
             }catch(Exception e){
                 e.printStackTrace();
             }
@@ -99,40 +96,40 @@ public class HTMLparser {
        }
 
     private ArrayList IsRady(String url) {
-        
+
         ArrayList<String> resultURL = new ArrayList<String>();
-        
-        
-      
-        
+
+
+
+
         for (int i = 0;i<4; i++){
             try {
                 Request testing = new Request(url.split(";")[i],null);
                 testing.SendGet();
                 if (testing.getGetResponse() != "fail"){
-                
-                    
+
+
                     resultURL.add(url.split(";")[i]);
                     save.file("conexion exitosa con: " + url.split(";")[i] , "logs/logserver.log");
-                
+
                 }else{
-                
+
                     save.file("conexion fallida con: " + url.split(";")[i] , "logs/logserver.log");
-                
+
                 }
             } catch (MalformedURLException ex) {
                 Logger.getLogger(HTMLparser.class.getName()).log(Level.SEVERE, null, ex);
             } catch (IOException ex) {
                 Logger.getLogger(HTMLparser.class.getName()).log(Level.SEVERE, null, ex);
             }
-            
-        
+
+
         }
-        
-        
+
+
         return resultURL;
     }
 
-   
-    
+
+
 }

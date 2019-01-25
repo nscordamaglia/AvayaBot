@@ -4,13 +4,13 @@ TASKER INIT!
 init_server
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_BLE.html
+conexion exitosa con: http://remote_host/V_product_BLE.html
 Comunication fail...Connect error 
-conexion fallida con: http://10.71.111.120/apcros01/data/V_ARNET_B_ROS.html
+conexion fallida con: http://10.71.111.120/apcros01/data/V_product_B_ROS.html
 Comunication fail...Connect error 
-conexion fallida con: http://10.71.111.120/apcros01/data/V_ARNET_WBK3.html
+conexion fallida con: http://10.71.111.120/apcros01/data/V_product_WBK3.html
 Comunication fail...Connect error 
-conexion fallida con: http://10.71.111.120/apcros01/data/V_ARNET_ESP_RO.html
+conexion fallida con: http://10.71.111.120/apcros01/data/V_product_ESP_RO.html
 Waiting...
 Timer created!
 schedule 24.0hs
@@ -18,13 +18,13 @@ TASKER INIT!
 init_server
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_BLE.html
+conexion exitosa con: http://remote_host/V_product_BLE.html
 Comunication fail...Connect error 
-conexion fallida con: http://10.71.111.120/apcros01/data/V_ARNET_B_ROS.html
+conexion fallida con: http://10.71.111.120/apcros01/data/V_product_B_ROS.html
 Comunication fail...Connect error 
-conexion fallida con: http://10.71.111.120/apcros01/data/V_ARNET_WBK3.html
+conexion fallida con: http://10.71.111.120/apcros01/data/V_product_WBK3.html
 Comunication fail...Connect error 
-conexion fallida con: http://10.71.111.120/apcros01/data/V_ARNET_ESP_RO.html
+conexion fallida con: http://10.71.111.120/apcros01/data/V_product_ESP_RO.html
 Waiting...
 Timer created!
 schedule 24.0hs
@@ -32,13 +32,13 @@ TASKER INIT!
 init_server
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_BLE.html
+conexion exitosa con: http://remote_host/V_product_BLE.html
 Comunication fail...Connect error 
-conexion fallida con: http://10.71.111.120/apcros01/data/V_ARNET_B_ROS.html
+conexion fallida con: http://10.71.111.120/apcros01/data/V_product_B_ROS.html
 Comunication fail...Connect error 
-conexion fallida con: http://10.71.111.120/apcros01/data/V_ARNET_WBK3.html
+conexion fallida con: http://10.71.111.120/apcros01/data/V_product_WBK3.html
 Comunication fail...Connect error 
-conexion fallida con: http://10.71.111.120/apcros01/data/V_ARNET_ESP_RO.html
+conexion fallida con: http://10.71.111.120/apcros01/data/V_product_ESP_RO.html
 Waiting...
 Timer created!
 schedule 24.0hs
@@ -46,13 +46,13 @@ TASKER INIT!
 init_server
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_BLE.html
+conexion exitosa con: http://remote_host/V_product_BLE.html
 Comunication fail...Connect error 
-conexion fallida con: http://10.71.111.120/apcros01/data/V_ARNET_B_ROS.html
+conexion fallida con: http://10.71.111.120/apcros01/data/V_product_B_ROS.html
 Comunication fail...Connect error 
-conexion fallida con: http://10.71.111.120/apcros01/data/V_ARNET_WBK3.html
+conexion fallida con: http://10.71.111.120/apcros01/data/V_product_WBK3.html
 Comunication fail...Connect error 
-conexion fallida con: http://10.71.111.120/apcros01/data/V_ARNET_ESP_RO.html
+conexion fallida con: http://10.71.111.120/apcros01/data/V_product_ESP_RO.html
 Waiting...
 Timer created!
 schedule 24.0hs
@@ -60,13 +60,13 @@ TASKER INIT!
 init_server
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_BLE.html
+conexion exitosa con: http://remote_host/V_product_BLE.html
 Comunication fail...Connect error 
-conexion fallida con: http://10.71.111.120/apcros01/data/V_ARNET_B_ROS.html
+conexion fallida con: http://10.71.111.120/apcros01/data/V_product_B_ROS.html
 Comunication fail...Connect error 
-conexion fallida con: http://10.71.111.120/apcros01/data/V_ARNET_WBK3.html
+conexion fallida con: http://10.71.111.120/apcros01/data/V_product_WBK3.html
 Comunication fail...Connect error 
-conexion fallida con: http://10.71.111.120/apcros01/data/V_ARNET_ESP_RO.html
+conexion fallida con: http://10.71.111.120/apcros01/data/V_product_ESP_RO.html
 Waiting...
 Timer created!
 schedule 24.0hs
@@ -74,13 +74,13 @@ TASKER INIT!
 init_server
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_BLE.html
+conexion exitosa con: http://remote_host/V_product_BLE.html
 Comunication fail...Connect error 
-conexion fallida con: http://10.71.111.120/apcros01/data/V_ARNET_B_ROS.html
+conexion fallida con: http://10.71.111.120/apcros01/data/V_product_B_ROS.html
 Comunication fail...Connect error 
-conexion fallida con: http://10.71.111.120/apcros01/data/V_ARNET_WBK3.html
+conexion fallida con: http://10.71.111.120/apcros01/data/V_product_WBK3.html
 Comunication fail...Connect error 
-conexion fallida con: http://10.71.111.120/apcros01/data/V_ARNET_ESP_RO.html
+conexion fallida con: http://10.71.111.120/apcros01/data/V_product_ESP_RO.html
 Waiting...
 Timer created!
 schedule 24.0hs
@@ -88,13 +88,13 @@ TASKER INIT!
 init_server
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_BLE.html
+conexion exitosa con: http://remote_host/V_product_BLE.html
 Comunication fail...Connect error 
-conexion fallida con: http://10.71.111.120/apcros01/data/V_ARNET_B_ROS.html
+conexion fallida con: http://10.71.111.120/apcros01/data/V_product_B_ROS.html
 Comunication fail...Connect error 
-conexion fallida con: http://10.71.111.120/apcros01/data/V_ARNET_WBK3.html
+conexion fallida con: http://10.71.111.120/apcros01/data/V_product_WBK3.html
 Comunication fail...Connect error 
-conexion fallida con: http://10.71.111.120/apcros01/data/V_ARNET_ESP_RO.html
+conexion fallida con: http://10.71.111.120/apcros01/data/V_product_ESP_RO.html
 Waiting...
 Timer created!
 schedule 24.0hs
@@ -102,13 +102,13 @@ TASKER INIT!
 init_server
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_BLE.html
+conexion exitosa con: http://remote_host/V_product_BLE.html
 Comunication fail...Connect error 
-conexion fallida con: http://10.71.111.120/apcros01/data/V_ARNET_B_ROS.html
+conexion fallida con: http://10.71.111.120/apcros01/data/V_product_B_ROS.html
 Comunication fail...Connect error 
-conexion fallida con: http://10.71.111.120/apcros01/data/V_ARNET_WBK3.html
+conexion fallida con: http://10.71.111.120/apcros01/data/V_product_WBK3.html
 Comunication fail...Connect error 
-conexion fallida con: http://10.71.111.120/apcros01/data/V_ARNET_ESP_RO.html
+conexion fallida con: http://10.71.111.120/apcros01/data/V_product_ESP_RO.html
 Waiting...
 Timer created!
 schedule 24.0hs
@@ -116,22 +116,22 @@ TASKER INIT!
 init_server
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_BLE.html
+conexion exitosa con: http://remote_host/V_product_BLE.html
 Timer created!
 schedule 24.0hs
 TASKER INIT!
 init_server
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_BLE.html
+conexion exitosa con: http://remote_host/V_product_BLE.html
 Comunication fail...Connect error 
-conexion fallida con: http://10.71.111.120/apcros01/data/V_ARNET_B_ROS.html
+conexion fallida con: http://10.71.111.120/apcros01/data/V_product_B_ROS.html
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_WBK3.html
+conexion exitosa con: http://remote_host/V_product_WBK3.html
 Response Code : 404
 Comunication fail...  
-conexion fallida con: http://10.71.11.120/apcros01/data/V_ARNET_ESP_RO.htm
+conexion fallida con: http://remote_host/V_product_ESP_RO.htm
 Copia creada satisfactoriamente del archivo semanal
 Waiting...
 Timer created!
@@ -140,23 +140,23 @@ TASKER INIT!
 init_server
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_BLE.html
+conexion exitosa con: http://remote_host/V_product_BLE.html
 Timer created!
 schedule 24.0hs
 TASKER INIT!
 init_server
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_BLE.html
+conexion exitosa con: http://remote_host/V_product_BLE.html
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_B_ROS.html
+conexion exitosa con: http://remote_host/V_product_B_ROS.html
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_WBK3.html
+conexion exitosa con: http://remote_host/V_product_WBK3.html
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_ESP_RO.html
+conexion exitosa con: http://remote_host/V_product_ESP_RO.html
 Copia creada satisfactoriamente del archivo semanal
 Waiting...
 Timer created!
@@ -165,16 +165,16 @@ TASKER INIT!
 init_server
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_BLE.html
+conexion exitosa con: http://remote_host/V_product_BLE.html
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_B_ROS.html
+conexion exitosa con: http://remote_host/V_product_B_ROS.html
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_WBK3.html
+conexion exitosa con: http://remote_host/V_product_WBK3.html
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_ESP_RO.html
+conexion exitosa con: http://remote_host/V_product_ESP_RO.html
 Waiting...
 Timer created!
 schedule 24.0hs
@@ -182,16 +182,16 @@ TASKER INIT!
 init_server
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_BLE.html
+conexion exitosa con: http://remote_host/V_product_BLE.html
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_B_ROS.html
+conexion exitosa con: http://remote_host/V_product_B_ROS.html
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_WBK3.html
+conexion exitosa con: http://remote_host/V_product_WBK3.html
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_ESP_RO.html
+conexion exitosa con: http://remote_host/V_product_ESP_RO.html
 Se envia satisfactoriamente el archivo semanal
 Waiting...
 Timer created!
@@ -200,16 +200,16 @@ TASKER INIT!
 init_server
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_BLE.html
+conexion exitosa con: http://remote_host/V_product_BLE.html
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_B_ROS.html
+conexion exitosa con: http://remote_host/V_product_B_ROS.html
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_WBK3.html
+conexion exitosa con: http://remote_host/V_product_WBK3.html
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_ESP_RO.html
+conexion exitosa con: http://remote_host/V_product_ESP_RO.html
 Waiting...
 Timer created!
 schedule 24.0hs
@@ -217,15 +217,15 @@ TASKER INIT!
 init_server
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_BLE.html
+conexion exitosa con: http://remote_host/V_product_BLE.html
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_B_ROS.html
+conexion exitosa con: http://remote_host/V_product_B_ROS.html
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_WBK3.html
+conexion exitosa con: http://remote_host/V_product_WBK3.html
 Response Code : 200
 Comunication success...  
-conexion exitosa con: http://10.71.11.120/apcros01/data/V_ARNET_ESP_RO.html
+conexion exitosa con: http://remote_host/V_product_ESP_RO.html
 Se envia satisfactoriamente el archivo semanal
 Waiting...

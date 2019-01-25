@@ -1,7 +1,4 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package avayabot;
 import java.util.Properties;
 import java.util.logging.Level;
@@ -18,17 +15,17 @@ import javax.mail.internet.MimeMultipart;
 
 /**
  *
- * @author u189299
+ * @author Nicolas Scordamaglia
  */
 public class SendMail {
-    
-    
+
+
     private Address[] destinos;
-    
+
 
     public SendMail() {
-        
-        
+
+
         int lenght = ConfigManager.getAppSetting("mailto").split(";").length;
         this.destinos = new Address[lenght];
         for (int i = 0; i<lenght; i++){
@@ -37,53 +34,47 @@ public class SendMail {
             } catch (AddressException ex) {
                 Logger.getLogger(SendMail.class.getName()).log(Level.SEVERE, null, ex);
             }
-        
+
         }
-        
-        
+
+
     }
-    
-    
-    
-      //Recipient's email ID needs to be mentioned.
-      //String to = ConfigManager.getAppSetting("mailto");
-      
-       
-      
-      // Sender's email ID needs to be mentioned
+
+
+      // Configurar origen
       String from = ConfigManager.getAppSetting("mailfrom");
-      
-      // Assuming you are sending email from localhost
+
+      // Configurar smtp
       String host = ConfigManager.getAppSetting("smtp");
 
     public void Ready (String path){
-    
-    
-            // Get system properties
+
+
+      // Configura propiedades
       Properties properties = System.getProperties();
 
-      // Setup mail server
+      // Configurar smtp
       properties.setProperty("mail.smtp.host", host);
 
-      // Get the default Session object.
+      // Sesion por defecto
       Session session = Session.getDefaultInstance(properties);
 
       try{
-         // Create a default MimeMessage object.
+         // Crea mensaje
          MimeMessage message = new MimeMessage(session);
 
-         // Set From: header field of the header.
+         // Setea origen
          message.setFrom(new InternetAddress(from));
 
-         // Set To: header field of the header.
+         // Setea destino
          message.addRecipients(Message.RecipientType.TO, destinos);
 
-         // Set Subject: header field
+         // Setea asunto
          message.setSubject("Reporte Reprogramados Semanal");
 
-         // Send the actual HTML message, as big as you like
+         // Setea mensaje
          message.setContent("<h1>Reporte Semanal</h1>", "text/html" );
-         
+
          MimeBodyPart messageBodyPart = new MimeBodyPart();
          String filename = path;
          DataSource source = new FileDataSource(filename);
@@ -93,16 +84,16 @@ public class SendMail {
          multipart.addBodyPart(messageBodyPart);
          message.setContent(multipart);
 
-         // Send message
+         // Envia mensaje
          Transport.send(message);
          Save save = new Save();
          save.file("Se envia satisfactoriamente el archivo semanal", "logs/logserver.log");
          System.out.println("Sent message successfully....");
       }catch (MessagingException mex) {
          mex.printStackTrace();
-         
+
       }
-    
+
     }
 
 }
